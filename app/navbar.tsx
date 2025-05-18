@@ -102,6 +102,7 @@ export default function Navbar() {
                         <input type="email" placeholder='Enter your Email' />
                         <button className="sent">Sent Mail</button>
                         <input type="file" name="file" id="file" className='file'/>
+                        <input type="text"  />
                     </form>
                 </div>
             )}
