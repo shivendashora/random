@@ -164,8 +164,7 @@ form{
     outline:none;
     border:1px solid black;
     cursor: pointer;
-    background-color: rgb(224, 69, 69);
-    color:black;
+    background-color: pink;
 }
 @media (max-width: 500px){
     p{
