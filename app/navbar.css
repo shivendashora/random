@@ -167,6 +167,10 @@ form{
     background-color: white;
     color:black;
 }
+.sent:hover{
+    background-color: aliceblue;
+    color:black;
+}
 @media (max-width: 500px){
     p{
         font-size: 17px;
