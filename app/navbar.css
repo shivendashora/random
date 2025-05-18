@@ -160,7 +160,7 @@ form{
     height:40px;
 }
 .sent:hover{
-    background-color: aliceblue;
+    background-color: pink;
     color:black;
 }
 @media (max-width: 500px){
