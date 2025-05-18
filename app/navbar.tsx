@@ -98,6 +98,10 @@ export default function Navbar() {
             {called && (
                 <div className='open'>
                     <button className="cross" onClick={cross}>Cross</button>
+                    <form action="post " className='form'>
+                        <input type="email" placeholder='Enter your Email' />
+                        <button className="sent">Sent Mail</button>
+                    </form>
                 </div>
             )}
         </div>
